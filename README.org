@@ -6,3 +6,4 @@
 - 技术发展很快，我们逐渐都在受益于不止步的软硬件技术以及产品的革新。希望掌握这样的技能之后，我们也能够为这个世界添砖加瓦。各位道友，happy hacking!
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/124286830][1213_SCons初步了解以及安装试用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124332639][1215_SCons使用之hello world]]
