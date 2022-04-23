@@ -7,3 +7,4 @@
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/124286830][1213_SCons初步了解以及安装试用]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124332639][1215_SCons使用之hello world]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124359447][1217_使用SCons生成目标文件]]
