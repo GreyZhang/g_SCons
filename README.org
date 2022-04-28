@@ -10,3 +10,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124359447][1217_使用SCons生成目标文件]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124415802][1219_SCons的配置文件SConstruct]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124437598][1220_SCons单目录多文件的编译以及可执行文件的命名控制]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124484306][1222_SCons单目录多文件的编译实现]]
