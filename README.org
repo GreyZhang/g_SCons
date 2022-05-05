@@ -12,3 +12,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124437598][1220_SCons单目录多文件的编译以及可执行文件的命名控制]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124484306][1222_SCons单目录多文件的编译实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124567781][1228_使用SCons创建库文件以及使用制定库]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124596052][1229_SCons的节点对象]]
