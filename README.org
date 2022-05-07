@@ -13,4 +13,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124484306][1222_SCons单目录多文件的编译实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124567781][1228_使用SCons创建库文件以及使用制定库]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124596052][1229_SCons的节点对象]]
-- [[https://blog.csdn.net/grey_csdn/article/details/124617617][1230_SCons对于依赖的处理]] 
+- [[https://blog.csdn.net/grey_csdn/article/details/124617617][1230_SCons对于依赖的处理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124638938][1231_使用SCons实现多目录多文件且跨目录引用的编译环境搭建（linux + gcc）]]
