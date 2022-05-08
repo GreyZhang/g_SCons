@@ -15,3 +15,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/124596052][1229_SCons的节点对象]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124617617][1230_SCons对于依赖的处理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124638938][1231_使用SCons实现多目录多文件且跨目录引用的编译环境搭建（linux + gcc）]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124643958][1232_使用SCons实现WindRiver Diab编译器的命令行自动化编译环境]]
